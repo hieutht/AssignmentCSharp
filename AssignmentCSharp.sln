@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseHandler", "DatabaseHandler\DatabaseHandler.csproj", "{BDA1EA50-A13A-446D-9B6D-9A760538D058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA1EA50-A13A-446D-9B6D-9A760538D058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA1EA50-A13A-446D-9B6D-9A760538D058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA1EA50-A13A-446D-9B6D-9A760538D058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA1EA50-A13A-446D-9B6D-9A760538D058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
